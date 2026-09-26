@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 600" role="img" aria-labelledby="title desc">
+  <title id="title">Darunnajath Arabic College logo</title>
+  <desc id="desc">A black and teal arch with an Arabic wordmark and the name Darunnajath Arabic College.</desc>
+  <rect width="520" height="600" fill="#fff"/>
+  <path d="M260 35c-12 24-20 41-20 63 0 13 9 24 20 24s20-11 20-24c0-22-8-39-20-63Z" fill="#000"/>
+  <path d="M260 31l23 53h-46Z" fill="#000"/>
+  <path d="M80 335V270C80 142 161 78 260 78s180 64 180 192v65" fill="none" stroke="#000" stroke-width="28" stroke-linecap="round"/>
+  <path d="M125 320v-49c0-99 59-151 135-151s135 52 135 151v49" fill="none" stroke="#119da4" stroke-width="30"/>
+  <path d="M145 331h230" stroke="#119da4" stroke-width="30" stroke-linecap="round"/>
+  <path d="M101 365h318" stroke="#000" stroke-width="26" stroke-linecap="round"/>
+  <path d="M244 149v73m16-73v73m16-73v73" stroke="#000" stroke-width="10" stroke-linecap="round"/>
+  <text x="260" y="312" text-anchor="middle" font-family="Arial, sans-serif" font-size="58" font-weight="700" fill="#000">النجاة</text>
+  <text x="260" y="446" text-anchor="middle" font-family="Arial, sans-serif" font-size="52" font-weight="800" letter-spacing="1" fill="#000">DARUNNAJATH</text>
+  <text x="260" y="493" text-anchor="middle" font-family="Arial, sans-serif" font-size="29" font-weight="600" letter-spacing="9" fill="#128c90">ARABIC COLLEGE</text>
+</svg>
